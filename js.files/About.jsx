@@ -4,8 +4,8 @@
 function About() {
   return (
     <div className="about">
-        <h1>
-            Hi, my name is Rebecca Jiwanmall. I have a Bachelor's degree in Health Services Administration but decided to go a whole new route which may be obvious....coding!
+        <h1> Hello everyone!My name is Yuliia Pylypiv. I am pharmacist from Ukraine. I love to learn new things and upgrade , so I choose IT-technology for it. 
+            
         </h1>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVWdpSX0xv-SPTJEGBorXQzdtwZuCh-XdyA&s" alt="It's me!!" />
         <p>
