@@ -5,20 +5,21 @@ function Projects() {
       <div className="projects">
         <h1>My Projects</h1>
         <div className="project">
-            <a href="https://rtj2023.github.io/GeneratePass/">
-                <h2 className="project-name">Password Generator</h2>
+            <a href="https://github.com/YuliiaPylypiv/Project-1.git">
+                <h2 className="project-name">binary-brigade</h2>
             <img src={pwgen} alt="P1" />
             </a>
         </div>
         <div className="project">
-            <a href="https://rtj2023.github.io/Work-Scheduler/">
-                <h2 className="project-name">Scheduler</h2>
+            <a href="https://github.com/YuliiaPylypiv/friendly-parakeet.git">
+                <h2 className="project-name">friendly-parakeet</h2>
             <img src={sched_snip} alt="P2" />
             </a>
         </div>
         <div className="project">
-            <a href="https://simplestepscode.com/javascript-quiz-tutorial/">
-                <h2 className="project-name">Code Quiz</h2>
+            <a href="https://github.com/YuliiaPylypiv/Flight-trackerY.git/">
+                <h2 className="project-name">Flight-trackerY
+</h2>
             <img src="https://github.com/rtj2023/Code-Quiz/raw/main/assets/screenshot_2.png" alt="P3" />
             </a>
         </div>
