@@ -23,12 +23,6 @@ function Projects() {
             <img src="js.files/images.png" alt="P3" />
             </a>
         </div>
-        <div className="project">
-            <a href="https://a-lovely-little-texty-editor-5a594f349d8e.herokuapp.com/">
-                <h2 className="project-name">Text Editor</h2>
-            <img src="https://github.com/rtj2023/Text-editor/raw/main/Assets/01-manifest.png" alt="P4" />
-            </a>
-        </div>
       </div>
     );
   }
