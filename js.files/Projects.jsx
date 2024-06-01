@@ -7,20 +7,20 @@ function Projects() {
         <div className="project">
             <a href="https://github.com/YuliiaPylypiv/Project-1.git">
                 <h2 className="project-name">binary-brigade</h2>
-            <img src={pwgen} alt="P1" />
+            <img src="js.files/1087815.png" alt="P1" />
             </a>
         </div>
         <div className="project">
             <a href="https://github.com/YuliiaPylypiv/friendly-parakeet.git">
                 <h2 className="project-name">friendly-parakeet</h2>
-            <img src={sched_snip} alt="P2" />
+            <img src="js.files/images.jpg" alt="P2" />
             </a>
         </div>
         <div className="project">
             <a href="https://github.com/YuliiaPylypiv/Flight-trackerY.git/">
                 <h2 className="project-name">Flight-trackerY
 </h2>
-            <img src="https://github.com/rtj2023/Code-Quiz/raw/main/assets/screenshot_2.png" alt="P3" />
+            <img src="js.files/images.png" alt="P3" />
             </a>
         </div>
         <div className="project">
