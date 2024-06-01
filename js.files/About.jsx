@@ -7,9 +7,9 @@ function About() {
         <h1> Hello everyone!My name is Yuliia Pylypiv. I am pharmacist from Ukraine. I love to learn new things and upgrade , so I choose IT-technology for it. 
             
         </h1>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScVWdpSX0xv-SPTJEGBorXQzdtwZuCh-XdyA&s" alt="It's me!!" />
+        <img src="js.files/1D112F14-AEF1-4C08-85F8-5DF987DF98C7.jpeg" alt="YP" />
         <p>
-            This is all about me. Things and stuff
+          Information about me.
         </p>
     </div>
   );
